@@ -7,7 +7,9 @@ Flask comes with a built-in development server and a degebugger, HTTP request ha
 Before you start clonng the project, they are a couple of modules that are imported in the project and we need ensure that they are installed in our system as well which will be done by using the following commands on cmd:
 
 pip install pandas 
+
 pip install matplotlib 
+
 pip install openxyl
 
 
