@@ -1,4 +1,4 @@
-# tentpole datas-ciences data visualization project in python3
+# Tentpole Datas-Sciences Data Visualization Project in python3
 
 For this peoject we used one of the simplest web-framework named Flask.
 
