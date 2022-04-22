@@ -13,7 +13,7 @@ pip install matplotlib
 pip install openxyl
 
 
-To get this project up and running please do the following 
+To get this project up and running please do the following:
 1. In you local repo or workspace please open powershell or gitbash
 2. from that dir run git clone https://github.com/NomsaT/Tentpole-DataSciences.git i.e can also copy this url from the projects repo in github
 3. cd tentpole-datascieences directory
